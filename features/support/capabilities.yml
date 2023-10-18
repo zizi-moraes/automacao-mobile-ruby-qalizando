@@ -1,0 +1,14 @@
+
+caps:
+  'app': './product_registration.apk'
+  'platformName': 'android'
+  'deviceName': 'Anonymous'
+  'appActivity': 'br.com.pztec.estoque.Inicio'
+  'appWaitActivity': br.com.pztec.estoque.Inicio
+  #'automationName': 'UiAutomator2'
+  'avdArgs': '-no-window'
+  'newCommandTimeout': 3600
+  'autoGrantPermissions': true
+  'autoAcceptAlerts': true
+  'disableAndroidWatchers': true
+  'resetKeyboard': true
