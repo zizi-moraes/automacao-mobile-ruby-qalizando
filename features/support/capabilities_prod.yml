@@ -1,6 +1,6 @@
 
 caps:
-  'app': './product_registration_prod.apk'
+  'app': 'app/product_registration_prod.apk'
   'platformName': 'android'
   'deviceName': 'Anonymous'
   'appActivity': 'br.com.pztec.estoque.Inicio'
